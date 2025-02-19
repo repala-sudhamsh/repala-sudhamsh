@@ -1,1 +1,1 @@
-![Metrics](https://github.com/<your-username>/<your-repo>/actions/workflows/metrics.yml/badge.svg)
+![Metrics](/github-metrics.svg)
