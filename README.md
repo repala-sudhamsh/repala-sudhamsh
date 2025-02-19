@@ -1,2 +1,1 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.34
+![Metrics](https://github.com/<your-username>/<your-repo>/actions/workflows/metrics.yml/badge.svg)
